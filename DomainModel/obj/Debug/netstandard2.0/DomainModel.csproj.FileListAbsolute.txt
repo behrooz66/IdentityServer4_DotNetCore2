@@ -1,0 +1,12 @@
+c:\Projects\AuthServer\DomainModel\obj\Debug\netstandard2.0\DomainModel.csprojAssemblyReference.cache
+c:\Projects\AuthServer\DomainModel\obj\Debug\netstandard2.0\DomainModel.csproj.CoreCompileInputs.cache
+c:\Projects\AuthServer\DomainModel\obj\Debug\netstandard2.0\DomainModel.AssemblyInfoInputs.cache
+c:\Projects\AuthServer\DomainModel\obj\Debug\netstandard2.0\DomainModel.AssemblyInfo.cs
+c:\Projects\AuthServer\DomainModel\bin\Debug\netstandard2.0\DomainModel.deps.json
+c:\Projects\AuthServer\DomainModel\bin\Debug\netstandard2.0\DomainModel.dll
+c:\Projects\AuthServer\DomainModel\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+c:\Projects\AuthServer\DomainModel\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+c:\Projects\AuthServer\DomainModel\obj\Debug\netstandard2.0\DomainModel.csproj.CopyComplete
+c:\Projects\AuthServer\DomainModel\bin\Debug\netstandard2.0\DomainModel.pdb
+c:\Projects\AuthServer\DomainModel\obj\Debug\netstandard2.0\DomainModel.dll
+c:\Projects\AuthServer\DomainModel\obj\Debug\netstandard2.0\DomainModel.pdb

@@ -1,0 +1,17 @@
+c:\Projects\AuthServer\Repo\bin\Debug\netcoreapp2.1\Repo.deps.json
+c:\Projects\AuthServer\Repo\bin\Debug\netcoreapp2.1\Repo.runtimeconfig.json
+c:\Projects\AuthServer\Repo\bin\Debug\netcoreapp2.1\Repo.runtimeconfig.dev.json
+c:\Projects\AuthServer\Repo\bin\Debug\netcoreapp2.1\Repo.dll
+c:\Projects\AuthServer\Repo\bin\Debug\netcoreapp2.1\Repo.pdb
+c:\Projects\AuthServer\Repo\obj\Debug\netcoreapp2.1\Repo.csprojAssemblyReference.cache
+c:\Projects\AuthServer\Repo\obj\Debug\netcoreapp2.1\Repo.csproj.CoreCompileInputs.cache
+c:\Projects\AuthServer\Repo\obj\Debug\netcoreapp2.1\Repo.RazorAssemblyInfo.cache
+c:\Projects\AuthServer\Repo\obj\Debug\netcoreapp2.1\Repo.RazorAssemblyInfo.cs
+c:\Projects\AuthServer\Repo\obj\Debug\netcoreapp2.1\Repo.AssemblyInfoInputs.cache
+c:\Projects\AuthServer\Repo\obj\Debug\netcoreapp2.1\Repo.AssemblyInfo.cs
+c:\Projects\AuthServer\Repo\obj\Debug\netcoreapp2.1\Repo.RazorTargetAssemblyInfo.cache
+c:\Projects\AuthServer\Repo\obj\Debug\netcoreapp2.1\Repo.dll
+c:\Projects\AuthServer\Repo\obj\Debug\netcoreapp2.1\Repo.pdb
+c:\Projects\AuthServer\Repo\bin\Debug\netcoreapp2.1\DomainModel.dll
+c:\Projects\AuthServer\Repo\bin\Debug\netcoreapp2.1\DomainModel.pdb
+c:\Projects\AuthServer\Repo\obj\Debug\netcoreapp2.1\Repo.csproj.CopyComplete
